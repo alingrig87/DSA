@@ -1,0 +1,68 @@
+{
+    "structure": [
+      {
+        "folder": "complexities/oN",
+        "files": [
+          { "name": "introduction" },
+          { "name": "examples" }
+        ]
+      },
+      {
+        "folder": "dataStructures/arrays",
+        "files": [
+          { "name": "twoSum" },
+          { "name": "maxSubarray" }
+        ]
+      },
+      {
+        "folder": "dataStructures/linkedList",
+        "files": [
+          { "name": "reverseLinkedList" },
+          { "name": "detectCycle" }
+        ]
+      },
+      {
+        "folder": "dataStructures/hashTables",
+        "files": [
+          { "name": "hashMapUsage" },
+          { "name": "collisionHandling" }
+        ]
+      },
+      {
+        "folder": "dataStructures/sets",
+        "files": [
+          { "name": "uniqueElements" },
+          { "name": "setOperations" }
+        ]
+      },
+      {
+        "folder": "dataStructures/queues",
+        "files": [
+          { "name": "queueImplementation" },
+          { "name": "priorityQueue" }
+        ]
+      },
+      {
+        "folder": "dataStructures/stacks",
+        "files": [
+          { "name": "stackImplementation" },
+          { "name": "validParentheses" }
+        ]
+      },
+      {
+        "folder": "dataStructures/bst",
+        "files": [
+          { "name": "bstTraversal" },
+          { "name": "insertDeleteBst" }
+        ]
+      },
+      {
+        "folder": "dataStructures/heaps",
+        "files": [
+          { "name": "heapSort" },
+          { "name": "priorityQueueUsage" }
+        ]
+      }
+    ]
+  }
+  
