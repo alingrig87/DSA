@@ -62,6 +62,39 @@
           { "name": "heapSort" },
           { "name": "priorityQueueUsage" }
         ]
+      },
+      {
+        "folder": "techniques/efficientSearching",
+        "files": [
+          { "name": "binarySearchDivide" },
+          { "name": "binarySeachStep" },
+          { "name": "interactiveBinarySearch1D" },
+          { "name": "interactiveBinarySearch2D" },
+          { "name": "ternarySearch" },
+          { "name": "trieBasic" },
+          { "name": "infoarenaTransport" },
+          { "name": "pairWithMaxXor" }
+        ]
+      },
+      {
+        "folder": "dataStructures/DSU",
+        "files": [
+          { "name": "dsuArrayWhichSet" },
+          { "name": "dsuArrayWhichSetSetMembers" },
+          { "name": "dsuTrees" },
+          { "name": "dsuUndo" },
+          { "name": "kruskal" }
+        ]
+      },
+      {
+        "folder": "techniques/patternMatching",
+        "files": [
+          { "name": "bruteforce" },
+          { "name": "hashCollisionGenerator" },
+          { "name": "rollingHash" },
+          { "name": "countDistinctSubstringsLengthK" },
+          { "name": "longestRepeatingSubstring" }
+        ]
       }
     ]
   }
