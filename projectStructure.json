@@ -71,9 +71,9 @@
           { "name": "interactiveBinarySearch1D" },
           { "name": "interactiveBinarySearch2D" },
           { "name": "ternarySearch" },
-          { "name": "trie" },
-          { "name": "quickselect" },
-          { "name": "beamSearch" }
+          { "name": "trieBasic" },
+          { "name": "infoarenaTransport" },
+          { "name": "pairWithMaxXor" }
         ]
       },
       {
